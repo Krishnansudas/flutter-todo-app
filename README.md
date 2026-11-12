@@ -49,6 +49,8 @@ lib/
 
    * Complete task
    * Edit task
+   * new thgings
+   * new design
    * Delete task
 
 #  Author
